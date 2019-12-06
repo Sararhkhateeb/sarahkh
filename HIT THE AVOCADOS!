@@ -25,7 +25,7 @@
 <h2 style="color:#4CAF50; text-align:center; font-family:verdana",  >Guac A Mole</h2>
 <p style="font-size:20px; text-align:center;">The Fastest way to make GUACAMOLE!</p>
 
-<button  onclick="window.location.href = '#';" class="button button1">START</button>
+<button  onclick="window.location.href = '#second page';" class="button button1">START</button>
 
 
 </body>
